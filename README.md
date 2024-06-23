@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 I'm from Mar del Plata, Argentina.<br>📅 I was born on September 14th, 2004.<br>📚 I'm currently studying the University Technical Degree in Programming in the Universidad Tecnológica Nacional and learning ASP.NET Core by myself.<br>✨ I'm a technology enthusiast who is curious, self-taught, and thrives in collaborative team environments.</p>
+<p align="left">📍 I'm from Mar del Plata, Argentina.<br>📅 I was born on September 14th, 2004.<br>📚 I'm currently studying the University Technical Degree in Programming in the Universidad Tecnológica Nacional and learning ASP.NET Core by myself.<br>✨ I'm a technology enthusiast who is curious, self-taught, and thrives in collaborative team environments.<br>🎯 My goal is to become a Full Stack web and desktop developer, passionate about solving real life problems by creating interactive and functional experiences for users. I am committed to continuous learning and always seeking to enhance my technical and creative skills.</p>
 
 ###
 
