@@ -13,34 +13,38 @@ Full Stack Developer and founder of **CompraAcá**, a web-based ordering platfor
 
 I design and build complete system architectures — from backend business logic to frontend user experience — always prioritizing:
 
-- Scalability  
-- Clean and decoupled architecture  
-- Performance optimization  
-- Security  
-- Maintainability  
+- Scalability
+- Clean and decoupled architecture
+- Performance optimization
+- Security
+- Maintainability
 
 I enjoy building technically robust products with strong foundations and long-term vision.
 
 ## 🧑‍💻 Professional Experience
 
-### [UTN Empleos](https://bolsatrabajo.mdp.utn.edu.ar/)  
-**Full Stack Developer**  
-*June 2024 – Present | Mar del Plata*
+### [CompraAcá](https://compraaca.com.ar/)
 
-Job board platform for the National Technological University.
-
-### [CompraAcá](https://compraaca.com.ar/)  
+![CompraAcá Preview](/assets/compraaca-cover.png)  
 **Founder & Full Stack Developer**  
-*January 2025 – Present | Mar del Plata*
+_January 2025 – Present | Mar del Plata_
 
 Web-based ordering platform for local stores.
+
+### [UTN Empleos](https://bolsatrabajo.mdp.utn.edu.ar/)
+
+![UTN Empleos Preview](/assets/utn-empleos-cover.webp)
+**Full Stack Developer**  
+_June 2024 – Present | Mar del Plata_
+
+Job board platform for the National Technological University.
 
 ## 🎓 Education
 
 **Universidad Tecnológica Nacional**  
 University Technical Degree in Programming  
 📅 February 2025  
-📊 GPA: 8.95  
+📊 GPA: 8.95
 
 ## 🛠 Tech Stack
 
