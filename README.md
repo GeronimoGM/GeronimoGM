@@ -1,77 +1,86 @@
-<h1 align="center">¡Hola! Soy Gerónimo</h1>
+<h1 align="center">Gerónimo Gonzalez Martino</h1>
 
-###
+📍 Mar del Plata, Argentina  
+💼 Full Stack Developer  
+🌐 [Portfolio](https://geronimogm.vercel.app/en/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/geronimogm?locale=en-US)  
+📧 geronimogonzalezmartino@gmail.com  
+📱 [+54 223 545-7365](https://wa.me/+542235457365)
 
-<p align="left">Soy Full Stack Developer con experiencia en Spring Boot y Angular.</p>
+## 🚀 About Me
 
-###
+Full Stack Developer and founder of **CompraAcá**, a web-based ordering platform focused on empowering local businesses and entrepreneurs.
 
-<h2 align="left">Sobre mí</h2>
+I design and build complete system architectures — from backend business logic to frontend user experience — always prioritizing:
 
-###
+- Scalability  
+- Clean and decoupled architecture  
+- Performance optimization  
+- Security  
+- Maintainability  
 
-<p align="left">📍 Soy de Mar del Plata.<br>📅 Estoy terminando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional.<br>✨ Soy autodidacta, apasionado por la tecnología y disfruto trabajar en equipo para afrontar retos tecnológicos.<br>🎯 Me especializo en desarrollar aplicaciones web completas, enfocándome en crear backends robustos con Java y frontends interactivos con Angular. Siempre estoy dispuesto a aprender y mejorar mis habilidades, aplicando buenas prácticas para desarrollar soluciones eficientes y mantenibles.</p>
+I enjoy building technically robust products with strong foundations and long-term vision.
 
-###
+## 🧑‍💻 Professional Experience
 
-<h2 align="left">Tech stack</h2>
+### [UTN Empleos](https://bolsatrabajo.mdp.utn.edu.ar/)  
+**Full Stack Developer**  
+*June 2024 – Present | Mar del Plata*
 
-###
+Job board platform for the National Technological University.
 
-<h3 align="left">Frameworks y Librerías</h3>
+### [CompraAcá](https://compraaca.com.ar/)  
+**Founder & Full Stack Developer**  
+*January 2025 – Present | Mar del Plata*
 
-###
+Web-based ordering platform for local stores.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular logo" />
-</div>
+## 🎓 Education
 
-###
+**Universidad Tecnológica Nacional**  
+University Technical Degree in Programming  
+📅 February 2025  
+📊 GPA: 8.95  
 
-<h3 align="left">Lenguajes</h3>
+## 🛠 Tech Stack
 
-###
+**Backend**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="Csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-</div>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+**Frontend**
 
-<h3 align="left">Herramientas</h3>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2.svg?style=for-the-badge&logo=NgRx&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031.svg?style=for-the-badge&logo=PrimeNG&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 
-###
+**Cloud & DevOps**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 
-###
+## 🌍 Languages
 
-<h2 align="left">Redes sociales</h2>
+**English – B2 (Upper Intermediate)**  
+Certified by Cambridge First Certificate in English (FCE).  
+Fluent communication in professional and technical contexts.
 
-###
+## 🔗 Social Media
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/geronimo-gonzalez-martino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/gero.gonzalez.m" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gero.gonzalez.m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geronimogm?locale=en-US)
